@@ -1,5 +1,5 @@
 import streamlit as st
-from agent_attaché import get_response_from_agent
+from agent_attache import get_response_from_agent
 
 st.set_page_config(page_title="Agent IA - Attaché Territorial")
 
